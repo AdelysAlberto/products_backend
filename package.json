@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "moment": "^2.22.2",
+    "mysql": "^2.16.0",
+    "os": "^0.1.1",
+    "request": "^2.88.0",
+    "v8": "^0.1.0"
+  }
+}
